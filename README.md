@@ -1,9 +1,9 @@
 # Salut, moi c'est Simon Savard-Blondel !
-# Développeur web et médias interactifs
+Développeur web et médias interactifs
 
 Je transforme des idées en expériences numériques créatives, interactives et immersives. Passionné par la technologie et l'expérimentation, j'aime explorer différentes approches pour concevoir des projets qui allient programmation, multimédia et créativité.
 
-# Découvre mon portfolio : simon-savard.github.io
+Découvre mon portfolio : simon-savard.github.io
 
 # À propos de moi
  Je m'intéresse au développement web et à la programmation.
@@ -11,12 +11,12 @@ Je transforme des idées en expériences numériques créatives, interactives et
  J'aime expérimenter avec de nouvelles technologies et apprendre de nouvelles techniques.
  Je valorise la coopération, la curiosité et la persévérance.
  Je recherche un stage en développement web ou en médias interactifs pour mettre mes compétences en pratique et continuer à progresser.
-## Technologies et outils
-# Langages et développement
+# Technologies et outils
+## Langages et développement
 
 !HTML5 !CSS3 !JavaScript !PHP !Python !C++
 
-# Création numérique et multimédia
+## Création numérique et multimédia
 
 !TouchDesigner !Unreal Engine !Blender !Arduino !Figma !VS Code
 
