@@ -1,16 +1,25 @@
-## Hi there 👋
+# Salut 👋, moi c'est Simon Savard-Blondel !
 
-<!--
-**Simon-Savard/Simon-Savard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Bienvenue sur mon profil GitHub !
 
-Here are some ideas to get you started:
+Je suis passionné(e) par le développement informatique et j'aime apprendre de nouvelles technologies, créer des projets et améliorer mes compétences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 À propos de moi
+- 🎓 Je suis actuellement en train d'apprendre le développement.
+- 🌱 J'améliore mes compétences en programmation.
+- 🔭 Je travaille sur des projets personnels.
+- 🎯 Mon objectif : progresser et créer des projets utiles.
+
+## 🛠️ Technologies et outils
+- 💻 Langages : Python, JavaScript, HTML, CSS
+- 🔧 Outils : Git, GitHub, VS Code
+
+## 📌 Mes projets
+- 🔹 **Mon premier projet** — Une courte description de mon projet.
+- 🔹 **Mon deuxième projet** — Une autre description de projet.
+
+## 📫 Me contacter
+- GitHub : https://github.com/TON-PSEUDO
+
+---
+⭐ Merci de visiter mon profil !
