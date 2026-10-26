@@ -1,25 +1,42 @@
-# Salut 👋, moi c'est Simon Savard-Blondel !
+👋 Salut, moi c'est Simon Savard-Blondel !
+💻 Développeur web et médias interactifs
 
-💻 Bienvenue sur mon profil GitHub !
+Je transforme des idées en expériences numériques créatives, interactives et immersives. Passionné par la technologie et l'expérimentation, j'aime explorer différentes approches pour concevoir des projets qui allient programmation, multimédia et créativité.
 
-Je suis passionné(e) par le développement informatique et j'aime apprendre de nouvelles technologies, créer des projets et améliorer mes compétences.
+🌐 Découvre mon portfolio : simon-savard.github.io
 
-## 🚀 À propos de moi
-- 🎓 Je suis actuellement en train d'apprendre le développement.
-- 🌱 J'améliore mes compétences en programmation.
-- 🔭 Je travaille sur des projets personnels.
-- 🎯 Mon objectif : progresser et créer des projets utiles.
+🚀 À propos de moi
+💻 Je m'intéresse au développement web et à la programmation.
+🎨 J'aime concevoir des expériences interactives et des installations multimédias.
+🧪 J'aime expérimenter avec de nouvelles technologies et apprendre de nouvelles techniques.
+🤝 Je valorise la coopération, la curiosité et la persévérance.
+🎯 Je recherche un stage en développement web ou en médias interactifs pour mettre mes compétences en pratique et continuer à progresser.
+🛠️ Technologies et outils
+Langages et développement
 
-## 🛠️ Technologies et outils
-- 💻 Langages : Python, JavaScript, HTML, CSS
-- 🔧 Outils : Git, GitHub, VS Code
+!HTML5 !CSS3 !JavaScript !PHP !Python !C++
 
-## 📌 Mes projets
-- 🔹 **Mon premier projet** — Une courte description de mon projet.
-- 🔹 **Mon deuxième projet** — Une autre description de projet.
+Création numérique et multimédia
 
-## 📫 Me contacter
-- GitHub : https://github.com/TON-PSEUDO
+!TouchDesigner !Unreal Engine !Blender !Arduino !Figma !VS Code
 
----
-⭐ Merci de visiter mon profil !
+🎨 Mes centres d'intérêt
+🖥️ Développement web et programmation
+🕹️ Jeux vidéo et expériences interactives
+🎛️ Installations multimédias et création numérique
+🔧 Expérimentation et construction
+📂 Mes projets
+
+Je t'invite à découvrir mes réalisations, mes expérimentations et mon parcours sur mon portfolio.
+
+👉 Voir mon portfolio et mes projets
+
+📫 Me contacter
+
+Tu souhaites discuter d'un projet, d'une collaboration ou d'une possibilité de stage ?
+
+🌐 Portfolio : simon-savard.github.io
+💼 GitHub : @simon-savard
+✉️ Courriel : simonsavardb@gmail.com
+
+⭐ Toujours curieux, toujours en train d'apprendre et toujours prêt à créer.
